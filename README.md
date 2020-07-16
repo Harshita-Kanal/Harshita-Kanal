@@ -1,6 +1,6 @@
 ### Hi there! 👋
-Thanks For taking out the time to look here, you are in for a treat!
-### I am Harshita Kanal, :girl:
+Thanks For taking out the time to look here, you are in for a treat!<br>
+I am <strong>Harshita Kanal<strong>, :girl:<br>
 A Computer Science undergraduate, Front-End developer and a Machine Learning Enthusiast. <br>
 Look around to find my projects, and other involvements. <br>
 * I'm currently exploring deep learning and the amazing world of data science :star:
