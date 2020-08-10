@@ -9,7 +9,8 @@ Look around to find my projects, and other involvements.<br>
 :mailbox_closed: [Twitter](https://twitter.com/harshita_kanal)<br>
 :envelope: [LinkedIn](https://www.linkedin.com/in/harshita-kanal-400563166/)<br>
 
-![My github stats](https://github-readme-stats.vercel.app/api?username=Harshita-Kanal&count_private=true&hide=stars,issues&show_icons=true)
+![My github stats](https://github-readme-stats.vercel.app/api?username=Harshita-Kanal&count_private=true&hide=stars,issues&show_icons=true) <br>
+
 
 
 
