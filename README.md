@@ -6,8 +6,8 @@ Look around to find my projects, and other involvements.<br>
 🔭 I'm currently exploring deep learning and the amazing world of data science <br>
 🌱 I'm looking to collaborate on anything that you want me to. <br>
 ### How to reach me :cherry_blossom: 
-:mailbox_closed: [Twitter](https://twitter.com/harshita_kanal)<br>
-:envelope: [LinkedIn](https://www.linkedin.com/in/harshita-kanal-400563166/)<br>
+:mailbox_closed: *[Twitter](https://twitter.com/harshita_kanal)*<br>
+:envelope: *[LinkedIn](https://www.linkedin.com/in/harshita-kanal-400563166/)*<br>
 
 ![My github stats](https://github-readme-stats.vercel.app/api?username=Harshita-Kanal&count_private=true&hide=stars,issues&show_icons=true) <br>
 
