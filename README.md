@@ -1,4 +1,5 @@
 ### Hi there! 👋
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Harshita-Kanal&label=Views&color=blue&style=plastic" alt="Harshita-Kanal" /> </p>
 Thanks For taking out the time to look here, you are in for a treat!<br>
 *__I am Harshita Kanal, :girl: <br>__*
 *__A Computer Science undergraduate, Front-End developer and an Open-Source and Machine Learning Enthusiast__* <br>
