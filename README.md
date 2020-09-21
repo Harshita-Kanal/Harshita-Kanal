@@ -8,8 +8,15 @@ Look around to find my projects, and other involvements.<br>
 ✨ I'm passionate about the world of web and love building products that impact people's lives.
 
 ### How to reach me :cherry_blossom: 
-:mailbox_closed: *[Twitter](https://twitter.com/harshita_kanal)*<br>
+<!--:mailbox_closed: *[Twitter](https://twitter.com/harshita_kanal)*<br>
 :envelope: *[LinkedIn](https://www.linkedin.com/in/harshita-kanal-400563166/)*<br>
+-->
+<p align = "center">
+  
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/harshita-kanal-400563166/)
+[<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/harshita_kanal) 
+
+</p>
 
 ![My github stats](https://github-readme-stats.vercel.app/api?username=Harshita-Kanal&count_private=true&hide=stars,issues&show_icons=true) <br>
 
