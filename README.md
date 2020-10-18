@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi there! I am Harshita Kanal </h1>
+<h1 align="center">Hi there! I am Harshita Kanal :wave: </h1>
 <h4 align = "center">A Computer Science undergraduate, Front-End developer and an Open-Source and Machine Learning Enthusiast</h4>
 
 ## About me :girl:
