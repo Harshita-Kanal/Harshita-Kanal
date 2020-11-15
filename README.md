@@ -24,6 +24,7 @@ Look around to find my projects, and other involvements.<br>
   
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/harshita-kanal-400563166/)
 [<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/harshita_kanal) 
+[<img src = "https://img.shields.io/badge/DEV.TO-%230A0A0A.svg?&style=for-the-badge&logo=dev.to&logoColor=white" />](https://dev.to/harshitakanal)
 
 </p>
 
