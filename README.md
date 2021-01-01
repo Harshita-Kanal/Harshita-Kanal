@@ -6,7 +6,7 @@
 Thanks For taking out the time to look here, you are in for a treat!<br>
 
 Look around to find my projects, and other involvements.<br>
-🔭 I'm currently exploring deep learning and the amazing world of data science <br>
+🔭 I'm currently exploring Web, Frontend and React ✨<br>
 🌱 I'm looking to collaborate on anything that you want me to. <br>
 ✨ I'm passionate about the world of web and love building products that impact people's lives.  <br>
 :octocat: Ask me about Web, Frontend, React, Open Source
