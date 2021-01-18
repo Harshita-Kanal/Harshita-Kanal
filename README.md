@@ -1,19 +1,19 @@
 
 <!--<h1 align="center">Hi there! I am Harshita Kanal :wave: </h1>-->
 <p align = "center">
-   <img src = "Hi there! I am Harshita Kanal-banner.png" height = "250px"/>
+   <img src = "Hi there! I am Harshita Kanal-banner.png" height = "200px"/>
  </p>
 
-<h4 align = "center">A Computer Science undergraduate, Front-End developer and an Open-Source and Machine Learning Enthusiast</h4>
+<h3 align = "center">A Computer Science undergraduate, Front-End developer and an Open-Source and Machine Learning Enthusiast</h3>
 
 ## About me :girl:
 Thanks For taking out the time to look here, you are in for a treat!<br>
 
 Look around to find my projects, and other involvements.<br>
-🔭 I'm currently exploring Web, Frontend and JavaScript ❤<br>
-🌱 I'm looking to collaborate on anything that you want me to. <br>
-✨ I'm passionate about the world of web and love building products that impact people's lives.  <br>
-:octocat: Ask me about Web, Frontend, React, Open Source
+🔭 I'm currently exploring **Web, Frontend and JavaScript** ❤<br>
+🌱 I'm looking to collaborate on **anything that you want me to!** <br>
+✨ I'm passionate about **the world of web and love building products that impact people's lives**  <br>
+:octocat: Ask me about **Web, Frontend, React, Open Source**
 
 ## My Current Tech Stack :woman_technologist:
 **Back-end**
