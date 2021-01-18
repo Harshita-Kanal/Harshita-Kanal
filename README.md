@@ -1,5 +1,9 @@
 
-<h1 align="center">Hi there! I am Harshita Kanal :wave: </h1>
+<!--<h1 align="center">Hi there! I am Harshita Kanal :wave: </h1>-->
+<p align = "center">
+   <img src = "Hi there! I am Harshita Kanal-banner.png" height = "200px"/>
+ </p>
+
 <h4 align = "center">A Computer Science undergraduate, Front-End developer and an Open-Source and Machine Learning Enthusiast</h4>
 
 ## About me :girl:
