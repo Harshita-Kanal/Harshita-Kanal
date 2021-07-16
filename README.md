@@ -2,7 +2,7 @@
 <!--<h1 align="center">Hi there! I am Harshita Kanal :wave: </h1>-->
 <p align = "center" >
 <!--    <img src = "Hi there! I am Harshita Kanal-banner.png" height = "200px"/> -->
-   <h1 align = "center"> Hi there! I am Harshita Kanal 👋</h1>
+   <h1 align = "center"> Hi there! I am Harshita Kanal <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px"></h1>
  </p>
 
 <h3 align = "center">A Computer Science undergraduate, Full-Stack developer, Open-Source Contributor and a DevOps Enthusiast</h3>
