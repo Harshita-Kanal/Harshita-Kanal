@@ -59,7 +59,7 @@ Look around to find my projects, and other involvements.<br>
 
 ## Some Stats :bar_chart:
 
-![My github stats](https://github-readme-stats.vercel.app/api?username=Harshita-Kanal&count_private=true&hide=stars,issues&show_icons=true) <br>
+![My github stats](https://github-readme-stats.vercel.app/api?username=Harshita-Kanal&count_private=true&hide=stars,issues&show_icons=true&theme=jolly) <br>
 
 <img src="https://komarev.com/ghpvc/?username=Harshita-Kanal&label=Views&color=blue&style=plastic" alt="Harshita-Kanal" />
 
