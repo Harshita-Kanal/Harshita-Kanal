@@ -8,8 +8,8 @@
 <h3 align = "center">A Computer Science undergraduate, Full-Stack developer, Open-Source Contributor and a DevOps Enthusiast</h3>
 
 ## About me :girl:
-Thanks For taking out the time to look here, you are in for a treat!<br>
-
+<!-- I am a Computer Science student currently in my senior year. Passionate about everything tech, currently working on Web development in React, Vue, and Learning Golang. I love contributing to open source, look around to find my open source contributions and projects. I have been a Mentor and Participant at several open source programs including GSsoC'21, SWoC'20. I am also a mentor at Open Source Day organised by Anitab.org at Grace Hopper Conference'21. I have been awarded scholarships to attend conferences like KubeCon'21 and Open Source Summit'21
+Thanks For taking out the time to look here, you are in for a treat!<br> -->
 Look around to find my projects, and other involvements.<br>
 🔭 I'm currently exploring **Web, Frontend and JavaScript** ❤<br>
 🌱 I'm looking to collaborate on **anything that you want me to!** <br>
