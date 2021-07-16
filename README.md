@@ -5,7 +5,7 @@
    <h1 align = "center"> Hi there! I am Harshita Kanal 👋</h1>
  </p>
 
-<h3 align = "center">A Computer Science undergraduate, Front-End developer and an Open-Source and DevOps Enthusiast</h3>
+<h3 align = "center">A Computer Science undergraduate, Full-Stack developer, Open-Source Contributor and a DevOps Enthusiast</h3>
 
 ## About me :girl:
 Thanks For taking out the time to look here, you are in for a treat!<br>
