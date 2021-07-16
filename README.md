@@ -65,6 +65,10 @@ Look around to find my projects, and other involvements.<br>
 
 [![GitHub Harshita-Kanal](https://img.shields.io/github/followers/Harshita-Kanal?label=follow&style=social)](https://github.com/Harshita-Kanal)
 
+## Skyline ✨
+
+![Skyline](https://github.com/Harshita-Kanal/Harshita-Kanal/blob/master/github-metrics.svg)
+
 <!--
 **Harshita-Kanal/Harshita-Kanal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 <!--
