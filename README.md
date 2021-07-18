@@ -56,9 +56,9 @@ Look around to find my projects, and other involvements.<br>
 
 </p>
 
-## Skyline ✨
+<!-- ## Skyline ✨
 
-![Skyline](https://github.com/Harshita-Kanal/Harshita-Kanal/blob/master/github-metrics.svg)
+![Skyline](https://github.com/Harshita-Kanal/Harshita-Kanal/blob/master/github-metrics.svg) -->
 
 ## Some Stats :bar_chart:
 
