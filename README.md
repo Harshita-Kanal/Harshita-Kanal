@@ -5,7 +5,6 @@
    <h1 align = "center"> Hi there! I am Harshita Kanal </h1>
  </p>
 
-<h3 align = "center">A Computer Science undergraduate, Full-Stack developer, Open-Source Contributor and a DevOps Enthusiast</h3>
 
 ## About me :girl:
 Hi, there! Thanks for stopping by. I am a Computer Science student currently in my senior year. Passionate about everything tech, currently working on **Web development in React, Vue, and Learning Golang**. I love contributing to open source, look around to find my open source contributions and projects. I have been a Mentor and Participant at several open source programs including **GSsoC'21, SWoC'20**. I am also a mentor at Open Source Day organised by Anitab.org at **Grace Hopper Conference'21**. I have been awarded scholarships to attend conferences like **KubeCon'21** and **Open Source Summit'21**. Currently I am working as a **Software Engineering Intern** at a couple of startups where I am working on frontend and backend stacks along with a bit of Cloud ☁️. I have participated in **10+ hackathons** as a participant, mentor and also won a couple of them. Drop in for a quick chat, I am open for all kinds of collaboration ✨
