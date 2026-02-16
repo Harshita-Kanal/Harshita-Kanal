@@ -61,11 +61,6 @@ Look around to find my projects, and other involvements.<br>
 
 ## Some Stats :bar_chart:
 
-![My github stats](https://github-readme-stats.vercel.app/api?username=Harshita-Kanal&count_private=true&hide=stars,issues&show_icons=true&theme=jolly) <br>
-
- [![Harshita's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=Harshita-Kanal&theme=rogue)](https://harshi-codes.netlify.app)
-  
-
 <img src="https://komarev.com/ghpvc/?username=Harshita-Kanal&label=Views&color=blue&style=plastic" alt="Harshita-Kanal" />
 
 [![GitHub Harshita-Kanal](https://img.shields.io/github/followers/Harshita-Kanal?label=follow&style=social)](https://github.com/Harshita-Kanal)
